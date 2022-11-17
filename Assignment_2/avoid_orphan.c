@@ -1,9 +1,4 @@
-/*
- Name: Ranjeet Kumbhar
- Subject: OSL
- Class: TE-IT-A
- Roll No.: 35041
-*/
+
 
 #include <stdio.h>
 #include <sys/types.h>
