@@ -1,17 +1,4 @@
-/*
-Assignment No. 7(A)
- Name: Ranjeet Kumbhar
- Subject: OSL
- Class: TE-IT-A
- Roll No.: 35041
-Batch: D
-Title: Inter Process Communication
-Problem Statement: A. FIFOS: Full duplex communication between two independent processes. First process accepts
-sentences and writes on one pipe to be read by second process and second process counts number of
-characters, number of words and number of lines in accepted sentences, writes this output in a text file
-and writes the contents of the file on second pipe to be read by first process and displays on standard
-output.
-*/
+
 
 #include<stdio.h>
 #include<fcntl.h>
