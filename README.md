@@ -1,5 +1,6 @@
 # TE_IT_OS_ASSIGNMENTS_SPPU
-314446 : Operating Systems Lab | SPPU 2019 Pattern
+# Third Year Information Technology (2019 Course)
+# 314446 : Operating Systems Lab | Savitribai Phule Pune University 2019 Pattern
 
 # Assignment No. 1 :
 A. Study of Basic Linux Commands: echo, ls, read, cat, touch, test, loops, arithmetic comparison,
